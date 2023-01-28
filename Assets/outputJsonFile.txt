@@ -1,0 +1,1 @@
+{"storageIntFloatToggle":true,"storageIntValue":3,"storageFloatValue":2.0,"storageIntArray":[1,2,3,4,5],"storageFloatArray":[5.0,4.0,3.0,2.0,1.0]}
